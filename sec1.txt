@@ -1,1 +1,2 @@
 This  is the first file in the second_repo repository.
+Shall we discuss about the project?
