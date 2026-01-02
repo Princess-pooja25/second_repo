@@ -1,7 +1,6 @@
 This  is the first file in the second_repo repository.
-<<<<<<< HEAD
-=======
 Shall we discuss about the project?
 Mala and sheela will be lead for this project.
 shivani will join soon
->>>>>>> b1d97ead92f89e59f1f005c6633fb96b8b429c28
+The project is about using git efficiently.
+
