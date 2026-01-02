@@ -4,6 +4,10 @@ Mala and sheela will be lead for this project.
 shivani will join soon
 The project is about using git efficiently.
 ///
+<<<<<<< HEAD
 we will see soon.
+=======
+we will see after 2 days.
+>>>>>>> c35831579eb10357b4fb76c0694d0f33c5beeda1
 
 
